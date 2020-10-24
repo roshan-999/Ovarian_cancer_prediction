@@ -2,6 +2,7 @@ name: tf_env
 channels:
   - defaults
 dependencies:
+  - python=3.8.5=h7579374_1
   - matplotlib=3.3.2=0
   - numpy=1.19.1=py38hbc911f0_0
   - pandas=1.0.5=py38h0573a6f_0
