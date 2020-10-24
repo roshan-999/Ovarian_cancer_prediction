@@ -2,6 +2,8 @@ name: tf_env
 channels:
   - defaults
 dependencies:
+  - matplotlib=3.3.2=0
+  - numpy=1.19.1=py38hbc911f0_0
   - pandas=1.0.5=py38h0573a6f_0
   - pillow=7.2.0=py38hb39fc2d_0
   - scikit-image=0.16.2=py38h0573a6f_0
